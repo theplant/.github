@@ -6,12 +6,12 @@ Please read through this and fill out the checks. If they're not relevant, put N
 ## Type of change
 
 <!--
-Add one of the following kinds:
-/kind bug
-/kind feature
-/kind deployment
-/kind documentation
-/kind cleanup
+Add one or more of the following kinds:
+- bug
+- feature
+- deployment
+- documentation
+- cleanup
 -->
 
 ## Description
