@@ -9,9 +9,9 @@ Please read through this and fill out the checks. If they're not relevant, put N
 Add one or more of the following kinds:
 - bug
 - feature
-- deployment
 - documentation
 - cleanup
+- deployment (for another change)
 -->
 
 ## Description
