@@ -11,6 +11,7 @@ Add one or more of the following kinds:
 - feature
 - deployment
 - documentation
+- configuration
 - cleanup
 -->
 
